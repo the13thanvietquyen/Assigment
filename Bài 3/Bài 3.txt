@@ -1,0 +1,61 @@
+PHÂN TÍCH CÁC NHÓM CẦU THỦ
+
+NHÓM 0: Hậu vệ/Phòng ngự (101 cầu thủ)
+Phân bố vị trí chính:
+   - DF: 55.4%
+   - MF: 33.7%
+   - MF,FW: 5.9%
+
+Đặc điểm nổi bật:
+   - Chỉ số phòng ngự cao (tackles, interceptions)
+   - Ít tham gia tấn công (xG, assists thấp)
+
+Cầu thủ tiêu biểu:
+   1. Bruno Fernandes
+   2. Tomáš Souček
+   3. Mateo Kovačić
+
+NHÓM 1: Tiền vệ trung tâm (103 cầu thủ)
+Phân bố vị trí chính:
+   - DF: 47.6%
+   - GK: 19.4%
+   - MF: 19.4%
+
+Đặc điểm nổi bật:
+   - Cân bằng giữa tấn công và phòng ngự
+   - Chỉ số chuyền và kiểm soát bóng tốt
+
+Cầu thủ tiêu biểu:
+   1. Nikola Milenković
+   2. Curtis Jones
+   3. Joe Aribo
+
+NHÓM 2: Tiền đạo/Tấn công (202 cầu thủ)
+Phân bố vị trí chính:
+   - DF: 27.2%
+   - FW: 16.3%
+   - FW,MF: 15.3%
+
+Đặc điểm nổi bật:
+   - Chỉ số tấn công vượt trội (xG, shots, goals)
+   - Ít tham gia phòng ngự
+
+Cầu thủ tiêu biểu:
+   1. Rodrigo Muniz
+   2. Jáder Durán
+   3. Omar Marmoush
+
+NHÓM 3: Tiền vệ cánh/Công (77 cầu thủ)
+Phân bố vị trí chính:
+   - FW: 46.8%
+   - FW,MF: 26.0%
+   - MF,FW: 16.9%
+
+Đặc điểm nổi bật:
+   - Khả năng tạt bóng, dribble tốt
+   - Tham gia cả tấn công lẫn phòng thủ
+
+Cầu thủ tiêu biểu:
+   1. Mohamed Salah
+   2. Alexander Isak
+   3. Erling Haaland

@@ -1,0 +1,682 @@
+Statistic: Standard_Gls
+Top 3:
+        Player            Team  Standard_Gls
+ Mohamed Salah       Liverpool            28
+Alexander Isak   Newcastle Utd            22
+Erling Haaland Manchester City            21
+Bottom 3:
+           Player        Team  Standard_Gls
+Joshua Acheampong     Chelsea             0
+      Tyler Adams Bournemouth             0
+ Emmanuel Agbadou      Wolves             0
+Statistic: Standard_Ast
+Top 3:
+          Player          Team  Standard_Ast
+   Mohamed Salah     Liverpool            18
+    Jacob Murphy Newcastle Utd            11
+Mikkel Damsgaard     Brentford            10
+Bottom 3:
+           Player      Team  Standard_Ast
+Joshua Acheampong   Chelsea             0
+ Emmanuel Agbadou    Wolves             0
+  Kristoffer Ajer Brentford             0
+Statistic: Standard_CrdY
+Top 3:
+     Player           Team  Standard_CrdY
+ Saša Lukić         Fulham             12
+Will Hughes Crystal Palace             11
+   Dan Burn  Newcastle Utd             10
+Bottom 3:
+       Player            Team  Standard_CrdY
+Simon Adingra        Brighton              0
+   Nathan Aké Manchester City              0
+      Alisson       Liverpool              0
+Statistic: Standard_CrdR
+Top 3:
+            Player           Team  Standard_CrdR
+   Bruno Fernandes Manchester Utd              2
+Myles Lewis-Skelly        Arsenal              2
+     Jack Stephens    Southampton              2
+Bottom 3:
+           Player        Team  Standard_CrdR
+Joshua Acheampong     Chelsea              0
+      Tyler Adams Bournemouth              0
+ Tosin Adarabioyo     Chelsea              0
+Statistic: Standard_xG
+Top 3:
+        Player            Team  Standard_xG
+ Mohamed Salah       Liverpool         23.9
+Erling Haaland Manchester City         20.8
+Alexander Isak   Newcastle Utd         19.0
+Bottom 3:
+       Player           Team  Standard_xG
+      Alisson      Liverpool          0.0
+  Harry Amass Manchester Utd          0.0
+Julian Araujo    Bournemouth          0.0
+Statistic: Standard_xAG
+Top 3:
+       Player      Team  Standard_xAG
+Mohamed Salah Liverpool          12.8
+  Cole Palmer   Chelsea           9.3
+Son Heung-min Tottenham           8.2
+Bottom 3:
+           Player            Team  Standard_xAG
+Joshua Acheampong         Chelsea           0.0
+       Nathan Aké Manchester City           0.0
+      Harry Amass  Manchester Utd           0.0
+Statistic: Standard_PrgC
+Top 3:
+       Player            Team  Standard_PrgC
+  Jeremy Doku Manchester City            189
+Mohamed Salah       Liverpool            142
+ Kaoru Mitoma        Brighton            138
+Bottom 3:
+           Player      Team  Standard_PrgC
+Joshua Acheampong   Chelsea              0
+          Alisson Liverpool              0
+  Alphonse Areola  West Ham              0
+Statistic: Standard_PrgP
+Top 3:
+         Player            Team  Standard_PrgP
+Bruno Fernandes  Manchester Utd            281
+ Joško Gvardiol Manchester City            251
+Bruno Guimarães   Newcastle Utd            241
+Bottom 3:
+         Player          Team  Standard_PrgP
+        Alisson     Liverpool              0
+Alphonse Areola      West Ham              0
+Martin Dúbravka Newcastle Utd              0
+Statistic: Standard_PrgR
+Top 3:
+       Player      Team  Standard_PrgR
+Mohamed Salah Liverpool            425
+ Bryan Mbeumo Brentford            306
+ Kaoru Mitoma  Brighton            277
+Bottom 3:
+           Player      Team  Standard_PrgR
+Joshua Acheampong   Chelsea              0
+          Alisson Liverpool              0
+  Alphonse Areola  West Ham              0
+Statistic: Standard_Gls/90
+Top 3:
+       Player            Team  Standard_Gls/90
+  Jáder Durán     Aston Villa             0.99
+Donyell Malen     Aston Villa             0.99
+ James Mcatee Manchester City             0.89
+Bottom 3:
+           Player        Team  Standard_Gls/90
+Joshua Acheampong     Chelsea              0.0
+      Tyler Adams Bournemouth              0.0
+ Emmanuel Agbadou      Wolves              0.0
+Statistic: Standard_Ast/90
+Top 3:
+        Player     Team  Standard_Ast/90
+Tyrique George  Chelsea             0.87
+    Danny Ings West Ham             0.63
+   Bukayo Saka  Arsenal             0.62
+Bottom 3:
+           Player      Team  Standard_Ast/90
+Joshua Acheampong   Chelsea              0.0
+ Emmanuel Agbadou    Wolves              0.0
+  Kristoffer Ajer Brentford              0.0
+Statistic: Standard_xG/90
+Top 3:
+       Player            Team  Standard_xG/90
+ James Mcatee Manchester City            0.83
+Marco Asensio     Aston Villa            0.78
+  Richarlison       Tottenham            0.78
+Bottom 3:
+         Player        Team  Standard_xG/90
+        Alisson   Liverpool             0.0
+  Julian Araujo Bournemouth             0.0
+Alphonse Areola    West Ham             0.0
+Statistic: Standard_xAG/90
+Top 3:
+         Player        Team  Standard_xAG/90
+ Tyrique George     Chelsea             0.63
+Mykhailo Mudryk     Chelsea             0.58
+ Philip Billing Bournemouth             0.54
+Bottom 3:
+           Player            Team  Standard_xAG/90
+Joshua Acheampong         Chelsea              0.0
+       Nathan Aké Manchester City              0.0
+    Julian Araujo     Bournemouth              0.0
+Statistic: Shooting_SoT%
+Top 3:
+           Player        Team  Shooting_SoT%
+Joshua Acheampong     Chelsea            NaN
+      Tyler Adams Bournemouth            NaN
+ Tosin Adarabioyo     Chelsea            NaN
+Bottom 3:
+           Player        Team  Shooting_SoT%
+Joshua Acheampong     Chelsea            NaN
+      Tyler Adams Bournemouth            NaN
+ Tosin Adarabioyo     Chelsea            NaN
+Statistic: Shooting_SoT/90
+Top 3:
+         Player        Team  Shooting_SoT/90
+   Julio Enciso    Brighton             3.37
+  Donyell Malen Aston Villa             2.64
+Luis Sinisterra Bournemouth             2.29
+Bottom 3:
+           Player            Team  Shooting_SoT/90
+Joshua Acheampong         Chelsea              0.0
+       Nathan Aké Manchester City              0.0
+          Alisson       Liverpool              0.0
+Statistic: Shooting_G/Sh
+Top 3:
+            Player            Team  Shooting_G/Sh
+       John Stones Manchester City            1.0
+       Axel Disasi         Chelsea            0.5
+Myles Lewis-Skelly         Arsenal            0.5
+Bottom 3:
+           Player        Team  Shooting_G/Sh
+Joshua Acheampong     Chelsea            0.0
+      Tyler Adams Bournemouth            0.0
+ Emmanuel Agbadou      Wolves            0.0
+Statistic: Shooting_Dist
+Top 3:
+          Player            Team  Shooting_Dist
+ Ibrahim Sangaré Nott'ham Forest           32.0
+Emmanuel Agbadou          Wolves           31.8
+     Ryan Fraser     Southampton           31.6
+Bottom 3:
+        Player            Team  Shooting_Dist
+Kieran Tierney         Arsenal            2.6
+  Harry Clarke    Ipswich Town            4.5
+   John Stones Manchester City            5.1
+Statistic: Passing_Cmp
+Top 3:
+         Player            Team  Passing_Cmp
+Virgil van Dijk       Liverpool         2446
+ Joško Gvardiol Manchester City         2321
+ William Saliba         Arsenal         2273
+Bottom 3:
+         Player          Team  Passing_Cmp
+  William Osula Newcastle Utd           11
+Albert Grønbaek   Southampton           13
+  Ali Al Hamadi  Ipswich Town           25
+Statistic: Passing_Total_Cmp%
+Top 3:
+        Player            Team  Passing_Total_Cmp%
+William Saliba         Arsenal                94.2
+ Manuel Akanji Manchester City                93.9
+    Nathan Aké Manchester City                93.9
+Bottom 3:
+      Player            Team  Passing_Total_Cmp%
+   Matz Sels Nott'ham Forest                50.5
+George Hirst    Ipswich Town                55.0
+        Beto         Everton                56.6
+Statistic: Passing_TotDist
+Top 3:
+         Player      Team  Passing_TotDist
+Virgil van Dijk Liverpool            44780
+   Levi Colwill   Chelsea            39487
+ William Saliba   Arsenal            39201
+Bottom 3:
+         Player          Team  Passing_TotDist
+  William Osula Newcastle Utd              126
+Albert Grønbaek   Southampton              135
+  Ali Al Hamadi  Ipswich Town              278
+Statistic: Passing_Short_Cmp%
+Top 3:
+           Player        Team  Passing_Short_Cmp%
+Joshua Acheampong     Chelsea                 NaN
+      Tyler Adams Bournemouth                 NaN
+ Tosin Adarabioyo     Chelsea                 NaN
+Bottom 3:
+           Player        Team  Passing_Short_Cmp%
+Joshua Acheampong     Chelsea                 NaN
+      Tyler Adams Bournemouth                 NaN
+ Tosin Adarabioyo     Chelsea                 NaN
+Statistic: Passing_Medium_Cmp%
+Top 3:
+           Player        Team  Passing_Medium_Cmp%
+Joshua Acheampong     Chelsea                  NaN
+      Tyler Adams Bournemouth                  NaN
+ Tosin Adarabioyo     Chelsea                  NaN
+Bottom 3:
+           Player        Team  Passing_Medium_Cmp%
+Joshua Acheampong     Chelsea                  NaN
+      Tyler Adams Bournemouth                  NaN
+ Tosin Adarabioyo     Chelsea                  NaN
+Statistic: Passing_Long_Cmp%
+Top 3:
+           Player        Team  Passing_Long_Cmp%
+Joshua Acheampong     Chelsea                NaN
+      Tyler Adams Bournemouth                NaN
+ Tosin Adarabioyo     Chelsea                NaN
+Bottom 3:
+           Player        Team  Passing_Long_Cmp%
+Joshua Acheampong     Chelsea                NaN
+      Tyler Adams Bournemouth                NaN
+ Tosin Adarabioyo     Chelsea                NaN
+Statistic: Passing_KP
+Top 3:
+         Player           Team  Passing_KP
+Bruno Fernandes Manchester Utd          84
+  Mohamed Salah      Liverpool          80
+    Cole Palmer        Chelsea          78
+Bottom 3:
+           Player        Team  Passing_KP
+Joshua Acheampong     Chelsea           0
+    Julian Araujo Bournemouth           0
+  Alphonse Areola    West Ham           0
+Statistic: Passing_1/3
+Top 3:
+         Player            Team  Passing_1/3
+Virgil van Dijk       Liverpool          265
+ Joško Gvardiol Manchester City          237
+Youri Tielemans     Aston Villa          221
+Bottom 3:
+         Player          Team  Passing_1/3
+Martin Dúbravka Newcastle Utd            0
+ Tyrique George       Chelsea            0
+  Ali Al Hamadi  Ipswich Town            0
+Statistic: Passing_PPA
+Top 3:
+         Player      Team  Passing_PPA
+  Mohamed Salah Liverpool           82
+Martin Ødegaard   Arsenal           78
+     Alex Iwobi    Fulham           77
+Bottom 3:
+           Player           Team  Passing_PPA
+Joshua Acheampong        Chelsea            0
+          Alisson      Liverpool            0
+      Harry Amass Manchester Utd            0
+Statistic: Passing_CrsPA
+Top 3:
+          Player        Team  Passing_CrsPA
+     Pedro Porro   Tottenham             26
+Antonee Robinson      Fulham             26
+    Milos Kerkez Bournemouth             22
+Bottom 3:
+           Player    Team  Passing_CrsPA
+Joshua Acheampong Chelsea              0
+ Tosin Adarabioyo Chelsea              0
+ Emmanuel Agbadou  Wolves              0
+Statistic: Goalkeeping_GA90
+Top 3:
+           Player        Team  Goalkeeping_GA90
+Joshua Acheampong     Chelsea               NaN
+      Tyler Adams Bournemouth               NaN
+ Tosin Adarabioyo     Chelsea               NaN
+Bottom 3:
+           Player        Team  Goalkeeping_GA90
+Joshua Acheampong     Chelsea               NaN
+      Tyler Adams Bournemouth               NaN
+ Tosin Adarabioyo     Chelsea               NaN
+Statistic: Goalkeeping_Save%
+Top 3:
+           Player        Team  Goalkeeping_Save%
+Joshua Acheampong     Chelsea                NaN
+      Tyler Adams Bournemouth                NaN
+ Tosin Adarabioyo     Chelsea                NaN
+Bottom 3:
+           Player        Team  Goalkeeping_Save%
+Joshua Acheampong     Chelsea                NaN
+      Tyler Adams Bournemouth                NaN
+ Tosin Adarabioyo     Chelsea                NaN
+Statistic: Goalkeeping_CS%
+Top 3:
+           Player        Team  Goalkeeping_CS%
+Joshua Acheampong     Chelsea              NaN
+      Tyler Adams Bournemouth              NaN
+ Tosin Adarabioyo     Chelsea              NaN
+Bottom 3:
+           Player        Team  Goalkeeping_CS%
+Joshua Acheampong     Chelsea              NaN
+      Tyler Adams Bournemouth              NaN
+ Tosin Adarabioyo     Chelsea              NaN
+Statistic: Goalkeeping_Penalty_Save%
+Top 3:
+           Player        Team  Goalkeeping_Penalty_Save%
+Joshua Acheampong     Chelsea                        NaN
+      Tyler Adams Bournemouth                        NaN
+ Tosin Adarabioyo     Chelsea                        NaN
+Bottom 3:
+           Player        Team  Goalkeeping_Penalty_Save%
+Joshua Acheampong     Chelsea                        NaN
+      Tyler Adams Bournemouth                        NaN
+ Tosin Adarabioyo     Chelsea                        NaN
+Statistic: Defense_Tkl
+Top 3:
+            Player           Team  Defense_Tkl
+Idrissa Gana Gueye        Everton          123
+      Daniel Muñoz Crystal Palace          109
+        João Gomes         Wolves          105
+Bottom 3:
+         Player            Team  Defense_Tkl
+Martin Dúbravka   Newcastle Utd            0
+        Ederson Manchester City            0
+   Julio Enciso        Brighton            0
+Statistic: Defense_TklW
+Top 3:
+            Player           Team  Defense_TklW
+Idrissa Gana Gueye        Everton            74
+      Daniel Muñoz Crystal Palace            70
+    Moisés Caicedo        Chelsea            63
+Bottom 3:
+           Player          Team  Defense_TklW
+          Alisson     Liverpool             0
+Kepa Arrizabalaga   Bournemouth             0
+  Martin Dúbravka Newcastle Utd             0
+Statistic: Defense_Att
+Top 3:
+           Player        Team  Defense_Att
+Joshua Acheampong     Chelsea          NaN
+      Tyler Adams Bournemouth          NaN
+ Tosin Adarabioyo     Chelsea          NaN
+Bottom 3:
+           Player        Team  Defense_Att
+Joshua Acheampong     Chelsea          NaN
+      Tyler Adams Bournemouth          NaN
+ Tosin Adarabioyo     Chelsea          NaN
+Statistic: Defense_Lost
+Top 3:
+                Player            Team  Defense_Lost
+            João Gomes          Wolves            60
+Trent Alexander-Arnold       Liverpool            53
+       Elliot Anderson Nott'ham Forest            52
+Bottom 3:
+           Player            Team  Defense_Lost
+Joshua Acheampong         Chelsea             0
+       Willy Boly Nott'ham Forest             0
+    Armando Broja         Everton             0
+Statistic: Defense_Blocks
+Top 3:
+         Player            Team  Defense_Blocks
+ Nathan Collins       Brentford              69
+        Murillo Nott'ham Forest              66
+Tyrick Mitchell  Crystal Palace              62
+Bottom 3:
+         Player          Team  Defense_Blocks
+        Alisson     Liverpool               0
+Alphonse Areola      West Ham               0
+Martin Dúbravka Newcastle Utd               0
+Statistic: Defense_Sh
+Top 3:
+        Player            Team  Defense_Sh
+Nathan Collins       Brentford          49
+   Dara O'Shea    Ipswich Town          47
+       Murillo Nott'ham Forest          43
+Bottom 3:
+           Player      Team  Defense_Sh
+Joshua Acheampong   Chelsea           0
+    Simon Adingra  Brighton           0
+          Alisson Liverpool           0
+Statistic: Defense_Pass
+Top 3:
+             Player           Team  Defense_Pass
+Alexis Mac Allister      Liverpool            54
+    Antoine Semenyo    Bournemouth            51
+    Tyrick Mitchell Crystal Palace            50
+Bottom 3:
+           Player      Team  Defense_Pass
+          Alisson Liverpool             0
+  Alphonse Areola  West Ham             0
+Benoît Badiashile   Chelsea             0
+Statistic: Defense_Int
+Top 3:
+           Player      Team  Defense_Int
+Aaron Wan-Bissaka  West Ham           59
+ Ryan Gravenberch Liverpool           57
+ Antonee Robinson    Fulham           56
+Bottom 3:
+         Player          Team  Defense_Int
+        Alisson     Liverpool            0
+ Miguel Almirón Newcastle Utd            0
+Michail Antonio      West Ham            0
+Statistic: Possession_Touches
+Top 3:
+         Player            Team  Possession_Touches
+Virgil van Dijk       Liverpool                3010
+ Joško Gvardiol Manchester City                2903
+   Levi Colwill         Chelsea                2669
+Bottom 3:
+         Player          Team  Possession_Touches
+Albert Grønbaek   Southampton                  38
+  William Osula Newcastle Utd                  41
+  Ali Al Hamadi  Ipswich Town                  53
+Statistic: Possession_Def Pen
+Top 3:
+      Player           Team  Possession_Def Pen
+Mark Flekken      Brentford                1305
+  Bernd Leno         Fulham                1066
+ André Onana Manchester Utd                1005
+Bottom 3:
+        Player          Team  Possession_Def Pen
+   Emi Buendía   Aston Villa                   0
+Miguel Almirón Newcastle Utd                   1
+Tyrique George       Chelsea                   1
+Statistic: Possession_Def 3rd
+Top 3:
+         Player      Team  Possession_Def 3rd
+   Mark Flekken Brentford                1615
+Jordan Pickford   Everton                1451
+     Bernd Leno    Fulham                1318
+Bottom 3:
+       Player          Team  Possession_Def 3rd
+William Osula Newcastle Utd                   2
+Callum Wilson Newcastle Utd                   5
+Ali Al Hamadi  Ipswich Town                   6
+Statistic: Possession_Mid 3rd
+Top 3:
+         Player            Team  Possession_Mid 3rd
+Virgil van Dijk       Liverpool                1664
+ William Saliba         Arsenal                1495
+ Joško Gvardiol Manchester City                1474
+Bottom 3:
+        Player        Team  Possession_Mid 3rd
+Fraser Forster   Tottenham                   0
+ Alex McCarthy Southampton                   0
+          Neto Bournemouth                   0
+Statistic: Possession_Att 3rd
+Top 3:
+         Player           Team  Possession_Att 3rd
+  Mohamed Salah      Liverpool                 993
+Bruno Fernandes Manchester Utd                 888
+   Bryan Mbeumo      Brentford                 876
+Bottom 3:
+         Player          Team  Possession_Att 3rd
+        Alisson     Liverpool                   0
+Alphonse Areola      West Ham                   0
+Martin Dúbravka Newcastle Utd                   0
+Statistic: Possession_Att Pen
+Top 3:
+         Player          Team  Possession_Att Pen
+  Mohamed Salah     Liverpool                 320
+Antoine Semenyo   Bournemouth                 176
+ Alexander Isak Newcastle Utd                 175
+Bottom 3:
+           Player      Team  Possession_Att Pen
+          Alisson Liverpool                   0
+  Alphonse Areola  West Ham                   0
+Benoît Badiashile   Chelsea                   0
+Statistic: Possession_Succ%
+Top 3:
+           Player        Team  Possession_Succ%
+Joshua Acheampong     Chelsea               NaN
+      Tyler Adams Bournemouth               NaN
+ Tosin Adarabioyo     Chelsea               NaN
+Bottom 3:
+           Player        Team  Possession_Succ%
+Joshua Acheampong     Chelsea               NaN
+      Tyler Adams Bournemouth               NaN
+ Tosin Adarabioyo     Chelsea               NaN
+Statistic: Possession_Tkld%
+Top 3:
+           Player        Team  Possession_Tkld%
+Joshua Acheampong     Chelsea               NaN
+      Tyler Adams Bournemouth               NaN
+ Tosin Adarabioyo     Chelsea               NaN
+Bottom 3:
+           Player        Team  Possession_Tkld%
+Joshua Acheampong     Chelsea               NaN
+      Tyler Adams Bournemouth               NaN
+ Tosin Adarabioyo     Chelsea               NaN
+Statistic: Possession_Carries
+Top 3:
+         Player            Team  Possession_Carries
+ Joško Gvardiol Manchester City                1886
+Virgil van Dijk       Liverpool                1682
+ William Saliba         Arsenal                1642
+Bottom 3:
+         Player            Team  Possession_Carries
+  Harry Toffolo Nott'ham Forest                  17
+Albert Grønbaek     Southampton                  18
+  William Osula   Newcastle Utd                  25
+Statistic: Possession_PrgDist
+Top 3:
+           Player        Team  Possession_PrgDist
+Joshua Acheampong     Chelsea                 NaN
+      Tyler Adams Bournemouth                 NaN
+ Tosin Adarabioyo     Chelsea                 NaN
+Bottom 3:
+           Player        Team  Possession_PrgDist
+Joshua Acheampong     Chelsea                 NaN
+      Tyler Adams Bournemouth                 NaN
+ Tosin Adarabioyo     Chelsea                 NaN
+Statistic: Possession_1/3
+Top 3:
+        Player            Team  Possession_1/3
+    Alex Iwobi          Fulham              99
+Joško Gvardiol Manchester City              92
+ Matheus Cunha          Wolves              88
+Bottom 3:
+           Player        Team  Possession_1/3
+          Alisson   Liverpool               0
+  Alphonse Areola    West Ham               0
+Kepa Arrizabalaga Bournemouth               0
+Statistic: Possession_CPA
+Top 3:
+       Player            Team  Possession_CPA
+Mohamed Salah       Liverpool             113
+  Jeremy Doku Manchester City              90
+ Noni Madueke         Chelsea              80
+Bottom 3:
+           Player    Team  Possession_CPA
+Joshua Acheampong Chelsea               0
+ Tosin Adarabioyo Chelsea               0
+ Emmanuel Agbadou  Wolves               0
+Statistic: Possession_Mis
+Top 3:
+       Player        Team  Possession_Mis
+Mohamed Salah   Liverpool             105
+Morgan Rogers Aston Villa             102
+ Bryan Mbeumo   Brentford              97
+Bottom 3:
+           Player          Team  Possession_Mis
+   Miguel Almirón Newcastle Utd               0
+  Alphonse Areola      West Ham               0
+Kepa Arrizabalaga   Bournemouth               0
+Statistic: Possession_Dis
+Top 3:
+          Player          Team  Possession_Dis
+  Mohammed Kudus      West Ham              88
+ Bruno Guimarães Newcastle Utd              73
+Dejan Kulusevski     Tottenham              72
+Bottom 3:
+           Player      Team  Possession_Dis
+Joshua Acheampong   Chelsea               0
+ Tosin Adarabioyo   Chelsea               0
+          Alisson Liverpool               0
+Statistic: Possession_Rec
+Top 3:
+         Player            Team  Possession_Rec
+ Joško Gvardiol Manchester City            2132
+Virgil van Dijk       Liverpool            2063
+ William Saliba         Arsenal            2013
+Bottom 3:
+         Player          Team  Possession_Rec
+Albert Grønbaek   Southampton              21
+  William Osula Newcastle Utd              27
+           Neto   Bournemouth              28
+Statistic: Misc_Fls
+Top 3:
+         Player         Team  Misc_Fls
+     João Gomes       Wolves        67
+     Liam Delap Ipswich Town        65
+Antoine Semenyo  Bournemouth        65
+Bottom 3:
+           Player      Team  Misc_Fls
+Joshua Acheampong   Chelsea         0
+          Alisson Liverpool         0
+  Alphonse Areola  West Ham         0
+Statistic: Misc_Fld
+Top 3:
+           Player        Team  Misc_Fld
+Joshua Acheampong     Chelsea       NaN
+      Tyler Adams Bournemouth       NaN
+ Tosin Adarabioyo     Chelsea       NaN
+Bottom 3:
+           Player        Team  Misc_Fld
+Joshua Acheampong     Chelsea       NaN
+      Tyler Adams Bournemouth       NaN
+ Tosin Adarabioyo     Chelsea       NaN
+Statistic: Misc_Off
+Top 3:
+               Player            Team  Misc_Off
+Dominic Calvert-Lewin         Everton        27
+           Chris Wood Nott'ham Forest        26
+          Jamie Vardy  Leicester City        25
+Bottom 3:
+           Player            Team  Misc_Off
+Joshua Acheampong         Chelsea         0
+      Tyler Adams     Bournemouth         0
+    Manuel Akanji Manchester City         0
+Statistic: Misc_Crs
+Top 3:
+         Player           Team  Misc_Crs
+    Pedro Porro      Tottenham       191
+   Bryan Mbeumo      Brentford       177
+Bruno Fernandes Manchester Utd       172
+Bottom 3:
+           Player      Team  Misc_Crs
+Joshua Acheampong   Chelsea         0
+ Tosin Adarabioyo   Chelsea         0
+          Alisson Liverpool         0
+Statistic: Misc_Recov
+Top 3:
+         Player            Team  Misc_Recov
+ Moisés Caicedo         Chelsea         197
+Bruno Fernandes  Manchester Utd         192
+Elliot Anderson Nott'ham Forest         186
+Bottom 3:
+                 Player           Team  Misc_Recov
+         Fraser Forster      Tottenham           1
+Hákon Rafn Valdimarsson      Brentford           1
+             Danny Ward Leicester City           1
+Statistic: Misc_Won
+Top 3:
+         Player          Team  Misc_Won
+       Dan Burn Newcastle Utd       127
+ Nathan Collins     Brentford       110
+Virgil van Dijk     Liverpool       110
+Bottom 3:
+        Player           Team  Misc_Won
+Miguel Almirón  Newcastle Utd         0
+        Antony Manchester Utd         0
+ Marco Asensio    Aston Villa         0
+Statistic: Misc_Lost
+Top 3:
+              Player            Team  Misc_Lost
+          Chris Wood Nott'ham Forest        123
+Jørgen Strand Larsen          Wolves         96
+Jean-Philippe Mateta  Crystal Palace         95
+Bottom 3:
+         Player           Team  Misc_Lost
+        Alisson      Liverpool          0
+Alphonse Areola       West Ham          0
+Hamza Choudhury Leicester City          0
+Statistic: Misc_Won%
+Top 3:
+         Player          Team  Misc_Won%
+        Alisson     Liverpool      100.0
+Alphonse Areola      West Ham      100.0
+Martin Dúbravka Newcastle Utd      100.0
+Bottom 3:
+        Player           Team  Misc_Won%
+Miguel Almirón  Newcastle Utd        0.0
+        Antony Manchester Utd        0.0
+ Marco Asensio    Aston Villa        0.0
